@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm NUHADN N KHAN</h1>
 <h3 align="center">A passionate Ethical hacker and Programmer from Bangladesh</h3>
-<img align="right" alt="coding" width="400"src="![image](https://github.com/NUHADNKHAN/NUHADNKHAN/assets/110389187/83d1e165-87d0-4995-ac31-59d12fd72a7f)
-">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhad&label=Profile%20views&color=0e75b6&style=flat" alt="nuhad" /> </p>
+
 - 🔭 I’m currently working on **Microsoft**
 
 - 👨‍💻 All of my projects are available at [https://www.hackerrank.com/nuhadnkhan?hr_r=1](https://www.hackerrank.com/nuhadnkhan?hr_r=1)
