@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm NUHADN N KHAN</h1>
 <h3 align="center">A passionate Ethical hacker and Programmer from Bangladesh</h3>
 
-<img alt="Coder GIF" width=350 src="![image](https://github.com/NUHADNKHAN/NUHADNKHAN/assets/110389187/2f47f18b-52da-4ccc-8833-79bdb705b80e)
-" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhad&label=Profile%20views&color=0e75b6&style=flat" alt="nuhad" /> </p>
 
 - 🔭 I’m currently working on **Microsoft**
