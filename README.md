@@ -478,18 +478,7 @@ available at
     />
   </a>
   <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
-      alt="vuepress"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://dotnet.microsoft.com/apps/xamarin"
-    target="_blank"
-    rel="noreferrer"
-  >
+    >
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
       alt="xamarin"
