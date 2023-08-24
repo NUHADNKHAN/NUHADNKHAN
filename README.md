@@ -1,28 +1,33 @@
-![logo](https://github.com/NUHADNKHAN/NUHADNKHAN/blob/main/GITNNK.png)
+@@ -1,16 +1,23 @@ ### Hi there 👋
 <h1 align="center">Hi 👋, I'm NUHADN N KHAN</h1>
 <h3 align="center">
   A passionate Ethical hacker and Programmer from Bangladesh
 </h3>
-
 <img
   align="right"
-  alt="Coder GIF"
-  width="350"
-  src="https://github.com/NUHADNKHAN/NUHADNKHAN/blob/main/animated-chock-coding-c78f6elj32sfoi8q.gif"
+  alt="coding"
+  width="400"
+  src="![image](https://github.com/NUHADNKHAN/NUHADNKHAN/assets/110389187/83d1e165-87d0-4995-ac31-59d12fd72a7f)
+"
 />
+- 🔭 I’m currently working on **Microsoft**
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=nuhad&label=Profile%20views&color=0e75b6&style=flat"
-    alt="nuhad"
-  />
-</p>
+<!--
+**NUHADNKHAN/NUHADNKHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [https://www.hackerrank.com/nuhadnkhan?hr_r=1](https://www.hackerrank.com/nuhadnkhan?hr_r=1)
 
-- 🔭 I’m currently working on **Microsoft** - 👨‍💻 All of my projects are
-available at
-[https://www.hackerrank.com/nuhadnkhan?hr_r=1](https://www.hackerrank.com/nuhadnkhan?hr_r=1)
+Here are some ideas to get you started:
 - 📫 How to reach me **nuhadnkhan@gmail.com**
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/nuhadnkhan34" target="blank"
@@ -478,7 +483,18 @@ available at
     />
   </a>
   <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
-    >
+    <img
+      src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
+      alt="vuepress"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://dotnet.microsoft.com/apps/xamarin"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
       alt="xamarin"
@@ -498,14 +514,6 @@ available at
       height="40"
     />
   </a>
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhad&show_icons=true&locale=en&layout=compact"
-    alt="nuhad"
-  />
 </p>
 
 <p>
