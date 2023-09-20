@@ -42,7 +42,7 @@ available at
       height="30"
       width="40"
   /></a>
-  <a href="https://discord.gg/nuhadnkhan" target="blank"
+  <a href="https://discord.gg/1153941780581060649" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
