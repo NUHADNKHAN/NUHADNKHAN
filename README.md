@@ -22,8 +22,7 @@
 - 🔭 I’m currently working on **Microsoft** - 👨‍💻 All of my projects are
 available at
 [https://www.hackerrank.com/nuhadnkhan?hr_r=1](https://www.hackerrank.com/nuhadnkhan?hr_r=1)
-- 📫 How to reach me **nuhadnkhan@gmail.com**  
-
+- 📫 How to reach me **nuhadnkhan@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/nuhadnkhan34" target="blank"
