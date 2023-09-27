@@ -12,17 +12,11 @@
   src="https://github.com/NUHADNKHAN/NUHADNKHAN/blob/main/animated-chock-coding-c78f6elj32sfoi8q.gif"
 />
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=nuhad&label=Profile%20views&color=0e75b6&style=flat"
-    alt="nuhad"
-  />
-</p>
-
 - 🔭 I’m currently working on **Microsoft** - 👨‍💻 All of my projects are
 available at
 [https://www.hackerrank.com/nuhadnkhan?hr_r=1](https://www.hackerrank.com/nuhadnkhan?hr_r=1)
 - 📫 How to reach me **nuhadnkhan@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/nuhadnkhan34" target="blank"
@@ -41,7 +35,7 @@ available at
       height="30"
       width="40"
   /></a>
-  <a href="https://discord.gg/1153941780581060649" target="blank"
+  <a href="https://discord.gg/64783" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
@@ -73,14 +67,6 @@ available at
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
       alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
       width="40"
       height="40"
     />
@@ -133,14 +119,6 @@ available at
       height="40"
     />
   </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-      alt="codeigniter"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg"
@@ -177,14 +155,6 @@ available at
     <img
       src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
       alt="cypress"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
       width="40"
       height="40"
     />
@@ -261,26 +231,10 @@ available at
       height="40"
     />
   </a>
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"
-      alt="hive"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://api.iconify.design/logos-hugo.svg"
-      alt="hugo"
       width="40"
       height="40"
     />
@@ -329,14 +283,6 @@ available at
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
       width="40"
       height="40"
     />
@@ -469,14 +415,6 @@ available at
       height="40"
     />
   </a>
-  <a href="https://sculpin.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg"
-      alt="sculpin"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
@@ -533,6 +471,14 @@ available at
       height="40"
     />
   </a>
+  <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
+      alt="vuepress"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://dotnet.microsoft.com/apps/xamarin"
     target="_blank"
@@ -557,14 +503,6 @@ available at
       height="40"
     />
   </a>
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhad&show_icons=true&locale=en&layout=compact"
-    alt="nuhad"
-  />
 </p>
 
 <p>
