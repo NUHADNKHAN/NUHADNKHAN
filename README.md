@@ -16,11 +16,17 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Microsoft** - 🔭 I’m owner of **Cyber Protect
-BD** - 👨‍💻 All of my projects are available at
-[https://github.com/NUHADNKHAN](https://github.com/NUHADNKHAN) - ⚡ Fun fact
-[Who is me?](Who is me?) - 💬 Ask me about **Ethical hacking,programming** - 📫
-How to reach me **nuhadnkhan@gmail.com**
+- 🔭 I’m currently working on **Microsoft**
+
+- 🔭 I’m owner of **Cyber Protect BD**
+
+- 👨‍💻 All of my projects are available at [https://github.com/NUHADNKHAN](https://github.com/NUHADNKHAN)
+
+- 💬 Ask me about **Ethical Hacking,Cyber ​​Safety,Programming,Coding and developing.**
+
+- 📫 How to reach me **nuhadnkhan@gmail.com**
+
+- ⚡ Fun fact **Who Am I ???**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
