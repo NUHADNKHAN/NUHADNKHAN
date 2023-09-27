@@ -1,5 +1,13 @@
+![logo](https://github.com/NUHADNKHAN/NUHADNKHAN/blob/main/GITNNK.png)
 <h1 align="center">Hi 👋, I'm NUHAD N KHAN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<img
+  align="right"
+  alt="Coder GIF"
+  width="350"
+  src="https://github.com/NUHADNKHAN/NUHADNKHAN/blob/main/animated-chock-coding-c78f6elj32sfoi8q.gif"
+/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhadnkhan&label=Profile%20views&color=0e75b6&style=flat" alt="nuhadnkhan" /> </p>
 
