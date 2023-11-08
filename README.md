@@ -768,7 +768,7 @@
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=NUHADNKHAN&show_icons=true&locale=en&layout=compact"
-    alt="nuhadnkhan"
+    alt="NUHADNKHAN"
   />
 </p>
 
@@ -776,7 +776,7 @@
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=NUHADNKHAN&show_icons=true&locale=en"
-    alt="nuhadnkhan"
+    alt="NUHADNKHAN"
   />
 </p>
 
@@ -784,6 +784,6 @@
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=NUHADNKHAN&"
-    alt="nuhadnkhan"
+    alt="NUHADNKHAN"
   />
 </p>
