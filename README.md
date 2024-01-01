@@ -767,7 +767,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=UHADNKHAN&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=NUHADNKHAN&show_icons=true&locale=en&layout=compact"
     alt="nuhadnkhan"
   />
 </p>
