@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NUHADNKHAN](https://github.com/NUHADNKHAN)
 
-- 💬 Ask me about **Ethical Hacking, Cyber ​​Safety, Programming, Coding and developing.**
+- 💬 Ask me about **Ethical Hacking, Cyber ​​Safety, Programming, Coding and developing. **
 
 - 📫 How to reach me **nuhadnkhan@gmail.com**
 
