@@ -1,6 +1,6 @@
 ![logo](https://github.com/NUHADNKHAN/NUHADNKHAN/blob/main/GITNNK.png)
 <h1 align="center">Hi 👋, I'm NUHAD N KHAN</h1>
-<h3 align="center">A passionate programmer fro Bangladesh</h3>
+<h3 align="center">A passionate programmer from Bangladesh</h3>
 
 <img
   align="right"
