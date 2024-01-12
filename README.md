@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Microsoft**
 
-- 🔭 I’m owner of **Cyber Protect BD**
+- 🔭 I’m owner of **Cyber rotect BD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NUHADNKHAN](https://github.com/NUHADNKHAN)
 
